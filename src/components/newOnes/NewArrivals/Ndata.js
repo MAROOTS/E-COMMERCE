@@ -1,0 +1,33 @@
+const Ndata=[
+  {
+    cover:"../images/i1.jpeg",
+    name:"Officials",
+    price:1500,
+  },
+  {
+    cover:"../images/i2.jpeg",
+    name:"Officials",
+    price:1500,
+  },
+  {
+    cover:"../images/i3.jpg",
+    name:"Officials",
+    price:1500,
+  },
+  {
+    cover:"../images/i4.jpg",
+    name:"Officials",
+    price:1500,
+  },
+  {
+    cover:"../images/04.jpg",
+    name:"Officials",
+    price:1500,
+  },
+  {
+    cover:"../images/i1.jpeg",
+    name:"Officials",
+    price:1500,
+  },
+]
+export default Ndata

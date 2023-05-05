@@ -1,0 +1,38 @@
+.topCat{
+  position: relative;
+}
+.topCat .box{
+  margin:0 20px;
+}
+.topCat img{
+  width: 90%;
+  height: 100%;
+  object-fit: contain;
+  overflow: hidden;
+}
+.topCat .nametop{
+  position: relative;
+  width: 100%;
+}
+.topCat .nametop span{
+  background-color: #0f3460;
+  color: #fff;
+  font-size: 15px;
+  padding: 5px 10px;
+  border-radius: 50px;
+  margin: 5px;
+  position: absolute;
+  top: 0;
+}
+.topCat .nametop .tleft{
+  left: 0;
+}
+.topCat .nametop .tright{
+  background-color: aliceblue;
+  color: #000;
+  position: absolute;
+  right: 0;
+}
+.box .img{
+  margin: 20px;
+}
